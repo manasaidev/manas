@@ -1,0 +1,81 @@
+blockchain
+cryptocurrency
+Bitcoin
+Ethereum
+decentralization
+token
+smart contract
+wallet
+NFT
+DeFi
+mining
+staking
+ledger
+altcoin
+hash rate
+ICO
+airdrops
+hodl
+whale
+bull market
+bear market
+market cap
+gas fees
+yield farming
+cross-chain
+layer 2 solutions
+proof of work
+proof of stake
+consensus mechanism
+private key
+public key
+decentralized application
+dApp
+governance token
+fork
+block explorer
+hash function
+cryptographic algorithm
+liquidity pool
+scalability
+interoperability
+atomic swap
+permissionless
+non-custodial
+cold storage
+hot wallet
+seed phrase
+validator
+node
+mainnet
+testnet
+tokenomics
+whitepaper
+deflationary
+inflationary
+stablecoin
+wrapped token
+virtual machine
+Merkle tree
+double-spending
+timestamp
+peer-to-peer
+immutability
+zero-knowledge proof
+smart contract audit
+flash loan
+oracle
+sharding
+slashing
+sidechain
+delegated staking
+turing complete
+genesis block
+block reward
+timestamping
+gas limit
+block height
+reorg
+unspent transaction output
+off-chain
+on-chain
