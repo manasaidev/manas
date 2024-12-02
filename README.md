@@ -29,7 +29,7 @@ Project MANAS is an advanced AI model designed to generate custom responses to t
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/project-manas.git
+   git clone https://github.com/manasaidev/manas.git
    ```
 2. Install the required dependencies:
    ```
